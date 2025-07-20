@@ -1,5 +1,5 @@
 # MED-DATA-ANALYSIS
-This Python notebook analyzes medical infrastructure data across India, focusing on hospital and bed availability in rural and urban areas. Using libraries like Pandas, NumPy, Matplotlib, Plotly, and Folium, it turns raw data into insightful visualizations such as charts and geospatial maps.
+
 🩺 Medical Data Analysis and Visualization using Python 🧪
 This project presents a Python notebook designed to perform data analysis and interactive visualization on medical infrastructure data across India. The primary focus is on the availability of hospital beds and facilities in rural and urban areas, which is especially relevant during times of crisis like pandemics or natural disasters.
 
